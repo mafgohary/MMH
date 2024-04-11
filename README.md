@@ -7,5 +7,6 @@ Then, the code implies several components on
 3. Public transport
 4. Shared mobility
 5. Bike sharing
-6. Physical conditions
-and for what concern place dimension, it works on Census data of population, and IAPI index (https://www.sciencedirect.com/science/article/pii/S0264275123003931)
+6. Physical conditions.
+
+and for what concerns place dimension, it works on Census data of population and IAPI index (https://www.sciencedirect.com/science/article/pii/S0264275123003931)
